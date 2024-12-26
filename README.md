@@ -1,5 +1,5 @@
-# MyResearchList
-This repository contains my articles and information for security researchers.
+# Publications
+This repository contains my publications.
 
 ## Conferences
 * [ROOTCON18](Conferences/ROOTCON18/README.md)
